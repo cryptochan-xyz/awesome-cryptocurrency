@@ -66,8 +66,8 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
 * [coingecko](https://www.coingecko.com/) - Cryptocurrency Prices, Charts, and Crypto Market Cap.
 * [coinmarketcap](https://coinmarketcap.com/) - Cryptocurrency Prices, Charts And Market Capitalizations.
-* [coinmarketcap](https://coinpaprika.com/) - Cryptocurrency Research Platform | Coin Market Capitalizations.
-* [cryptowat](https://cryptowat.ch/) - Live price charts and trading for top cryptocurrencies
+* [coinpaprika](https://coinpaprika.com/) - Cryptocurrency Research Platform | Coin Market Capitalizations.
+* [cryptowat](https://cryptowat.ch/) - Live price charts and trading for top cryptocurrencies.
 * [coin360](https://coin360.com/) - COIN360 is a cryptocurrency and crypto exchange live data aggregator.
 * [cryptobubbles](https://cryptobubbles.net/) - View crypto bubles visually.
 
