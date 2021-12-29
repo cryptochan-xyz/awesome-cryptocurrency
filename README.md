@@ -7,12 +7,19 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
 
 ## Swaps
-* Decentralized exchange (Most popular)  *
+* Decentralized exchanges
 * BSC
-    * [pancakeswap](https://pancakeswap.finance) -  Trade, earn, and win crypto on the most popular decentralized platform in the BSC network.
+    * [pancakeswap](https://pancakeswap.finance/swap) -  Trade, earn, and win crypto on the most popular decentralized platform in the BSC network.
 * ETH
-    * [pancakeswap](https://pancakeswap.finance) -  Swap, earn, and build on the leading decentralized crypto trading protocol.
+    * [uniswap](https://app.uniswap.org/#/swap) -  Swap, earn, and build on the leading decentralized crypto trading protocol.
+* XDAI
+    * [honeyswap](https://app.honeyswap.org/#/swap) -  Honeyswap - Decentralized Exchange on xdai network.
+* Fantom Opera network
+    * [spookyswap](https://spookyswap.finance/swap) -  SpookySwap is an automated market-making (AMM) decentralized exchange (DEX) for the Fantom Opera network. 
 
+* Multichain swaps
+   * [FEGex](https://fegex.com/) -  FEG Exchange (“FEGex”) is a multi-chain decentralized exchange, built from the ground-up, with a focus on innovative features that make trading easier and more rewarding.
+   * [Sushi](https://app.sushi.com/en/swap) -  Be a DeFi Chef with Sushi. Swap, earn, stack yields, lend, borrow, leverage all on one decentralized, community driven platform.
 
 
 ## New Tokens
@@ -23,11 +30,12 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
     * [tokenfomo](https://tokenfomo.io) - Scan for new BSC token launches.
     * [tokensniffer](https://tokensniffer.com) - This site scans contracts for known scams, computes helpful contract/token metrics, and maintains a list of scams/hacks. You can also use it to find the newest tokens. 
     * [moonarch](https://moonarch.app) - Listing new Tokens & Token analiser.
-    * [listingspy](https://listingspy.net/pancakeswap/pancakeswap-new-token-listings) - 
-    * [justbuyitffs](https://apps.justbuyitffs.com/) - 
+
+    * [justbuyitffs](https://apps.justbuyitffs.com/) - Token Research Assistant
     * [poocoin-ape](https://poocoin.app/ape) - Scan for new BSC token launches.
 
-
+* Multichain new token listings
+   * [listingspy](https://listingspy.net/pancakeswap/pancakeswap-new-token-listings) - Tool that will allow you to easily find new listings on all major decentralized exchanges.
 
 ## Safety Checks
 
@@ -38,6 +46,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
     * [tokensniffer](https://tokensniffer.com) - This site scans contracts for known scams, computes helpful contract/token metrics, and maintains a list of scams/hacks. You can also use it to find the newest tokens. 
 
 
+
 * Telegram Scan Bots
     * [SAFE Analyzer Bot](https://t.me/@SafeAnalyzerbot) - SAFE Analyzer Bot.
     * [Honeypot Bot](https://t.me/@HoneypotChatBot) - Check a token's honeypot status 
@@ -46,29 +55,30 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
 ## Charting
 
-* [poocoin](https://poocoin.app/)
-* [chartex](https://chartex.pro/dashboard) - 
-* [bogged-charts](https://charts.bogged.finance/) -
-* [tradingview](https://www.tradingview.com/) -
+* [poocoin](https://poocoin.app/) - The portfolio and charting DApp for tokens on Binance Smart Chain.
+* [bogged-charts](https://charts.bogged.finance/) - Charts, DEX Aggregator, Limit Orders & Stop Losses for BSC.
+* [tradingview](https://www.tradingview.com/) - Chart tool.
 * [1inch](https://1inch.io) - The 1inch Network unites decentralized protocols whose synergy enables the most lucrative, fastest and protected operations in the DeFi space.
-
-
+* [chartex](https://chartex.pro/dashboard) - CHART is a utility token that allows users premium access to ChartEx services as a means of payment and lets users participate actively in governance decisions. 
 
 
 ## Prices
 
-* [coingecko](https://www.coingecko.com/) -
-* [coinmarketcap](https://coinmarketcap.com/) - 
-* [coinmarketcap](https://coinpaprika.com/) - 
-* [cryptowat](https://cryptowat.ch/) - 
-* [coin360](https://coin360.com/) - 
-* [cryptobubbles](https://cryptobubbles.net/) - 
+* [coingecko](https://www.coingecko.com/) - Cryptocurrency Prices, Charts, and Crypto Market Cap.
+* [coinmarketcap](https://coinmarketcap.com/) - Cryptocurrency Prices, Charts And Market Capitalizations.
+* [coinmarketcap](https://coinpaprika.com/) - Cryptocurrency Research Platform | Coin Market Capitalizations.
+* [cryptowat](https://cryptowat.ch/) - Live price charts and trading for top cryptocurrencies
+* [coin360](https://coin360.com/) - COIN360 is a cryptocurrency and crypto exchange live data aggregator.
+* [cryptobubbles](https://cryptobubbles.net/) - View crypto bubles visually.
+
 
 
 ## Youtube
 
 * Scam reports
     * [Coffeezilla](https://www.youtube.com/c/Coffeezilla) - Uncover scams, fraudsters and fake gurus that are preying on desperate people with deceptive advertising.
+
+
 
 # Contributing
 
