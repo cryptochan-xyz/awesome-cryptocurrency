@@ -72,7 +72,10 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 * [cryptobubbles](https://cryptobubbles.net/) - View crypto bubles visually.
 
 
-
+## Crypto yield farming
+* [defillama](https://defillama.com) - DefiLlama is a DeFi TVL aggregator.
+* [vfat](https://vfat.tools/) - Tools for crypto yield farming enthusiasts.
+* 
 ## Youtube
 
 * Scam reports
