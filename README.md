@@ -6,22 +6,6 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 ---
 
 
-## Swaps
-* Decentralized exchanges
-* BSC
-    * [pancakeswap](https://pancakeswap.finance/swap) -  Trade, earn, and win crypto on the most popular decentralized platform in the BSC network.
-* ETH
-    * [uniswap](https://app.uniswap.org/#/swap) -  Swap, earn, and build on the leading decentralized crypto trading protocol.
-* XDAI
-    * [honeyswap](https://app.honeyswap.org/#/swap) -  Honeyswap - Decentralized Exchange on xdai network.
-* Fantom Opera network
-    * [spookyswap](https://spookyswap.finance/swap) -  SpookySwap is an automated market-making (AMM) decentralized exchange (DEX) for the Fantom Opera network. 
-
-* Multichain swaps
-   * [FEGex](https://fegex.com/) -  FEG Exchange (“FEGex”) is a multi-chain decentralized exchange, built from the ground-up, with a focus on innovative features that make trading easier and more rewarding.
-   * [Sushi](https://app.sushi.com/en/swap) -  Be a DeFi Chef with Sushi. Swap, earn, stack yields, lend, borrow, leverage all on one decentralized, community driven platform.
-
-
 ## New Tokens
 
 *Finding new token linstings*
@@ -36,6 +20,8 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
 * Multichain new token listings
    * [listingspy](https://listingspy.net/pancakeswap/pancakeswap-new-token-listings) - Tool that will allow you to easily find new listings on all major decentralized exchanges.
+
+
 
 ## Safety Checks
 
@@ -62,6 +48,25 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 * [chartex](https://chartex.pro/dashboard) - CHART is a utility token that allows users premium access to ChartEx services as a means of payment and lets users participate actively in governance decisions. 
 
 
+
+## Swaps
+* Decentralized exchanges
+* BSC
+    * [pancakeswap](https://pancakeswap.finance/swap) -  Trade, earn, and win crypto on the most popular decentralized platform in the BSC network.
+* ETH
+    * [uniswap](https://app.uniswap.org/#/swap) -  Swap, earn, and build on the leading decentralized crypto trading protocol.
+* XDAI
+    * [honeyswap](https://app.honeyswap.org/#/swap) -  Honeyswap - Decentralized Exchange on xdai network.
+* Fantom Opera network
+    * [spookyswap](https://spookyswap.finance/swap) -  SpookySwap is an automated market-making (AMM) decentralized exchange (DEX) for the Fantom Opera network. 
+
+* Multichain swaps
+   * [FEGex](https://fegex.com/) -  FEG Exchange (“FEGex”) is a multi-chain decentralized exchange, built from the ground-up, with a focus on innovative features that make trading easier and more rewarding.
+   * [Sushi](https://app.sushi.com/en/swap) -  Be a DeFi Chef with Sushi. Swap, earn, stack yields, lend, borrow, leverage all on one decentralized, community driven platform.
+
+
+
+
 ## Crypto Listing
 
 *New cryptocurrency listing webpages*
@@ -71,7 +76,6 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 * [coinsniper](https://coinsniper.net) - coin listing website.
 * [coinalpha](https://coinalpha.app/) - listing website.
 * [coinhunt](https://coinhunt.cc) - listing website.
-
 
 
 ## Prices
@@ -85,9 +89,21 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
 
 
+## Services
+
+*Buy with crypto*
+
+* [cryptwerk](https://cryptwerk.com/) - Cryptocurrencies accepted for all kind of services services.
+* [bitrefill](https://www.bitrefill.com/) - Buy gift cards for anything under the sun, No account necessary.
+
+
+
+
 ## Crypto yield farming
 * [defillama](https://defillama.com) - DefiLlama is a DeFi TVL aggregator.
 * [vfat](https://vfat.tools/) - Tools for crypto yield farming enthusiasts.
+
+
 
 
 
