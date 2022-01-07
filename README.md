@@ -62,6 +62,18 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 * [chartex](https://chartex.pro/dashboard) - CHART is a utility token that allows users premium access to ChartEx services as a means of payment and lets users participate actively in governance decisions. 
 
 
+## Crypto Listing
+
+*New cryptocurrency listing webpages*
+
+
+* [cryptochan](https://cryptochan.xyz/) - anonymous imageboard listing websites.
+* [coinsniper](https://coinsniper.net) - coin listing website.
+* [coinalpha](https://coinalpha.app/) - listing website.
+* [coinhunt](https://coinhunt.cc) - listing website.
+
+
+
 ## Prices
 
 * [coingecko](https://www.coingecko.com/) - Cryptocurrency Prices, Charts, and Crypto Market Cap.
@@ -72,10 +84,13 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 * [cryptobubbles](https://cryptobubbles.net/) - View crypto bubles visually.
 
 
+
 ## Crypto yield farming
 * [defillama](https://defillama.com) - DefiLlama is a DeFi TVL aggregator.
 * [vfat](https://vfat.tools/) - Tools for crypto yield farming enthusiasts.
-* 
+
+
+
 ## Youtube
 
 * Scam reports
