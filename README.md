@@ -39,6 +39,26 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
 
 
+## Crypto Listing
+
+*New cryptocurrency listing*
+
+*Imageboards*
+
+* [cryptochan.xyz](https://cryptochan.xyz) - Anonymous imageboard listing websites.
+* [cryptochan.cc](https://cryptochan.cc) - Anonymous imageboard listing websites.
+* [coin4chan.cc](https://coin4chan.xyz/) - Anonymous imageboard listing websites.
+
+
+*Listing websites*
+
+* [coinalpha](https://memetools.app/) - For Meme Coins And Meme Tokens listing website.
+* [coinsniper](https://coinsniper.net) - Coin listing website.
+* [coinalpha](https://coinalpha.app/) - Listing website.
+* [coinhunt](https://coinhunt.cc) - Listing website.
+
+
+
 ## Charting
 
 * [poocoin](https://poocoin.app/) - The portfolio and charting DApp for tokens on Binance Smart Chain.
@@ -66,18 +86,6 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
 
 
-
-## Crypto Listing
-
-*New cryptocurrency listing webpages*
-
-
-* [cryptochan](https://cryptochan.xyz/) - anonymous imageboard listing websites.
-* [coinsniper](https://coinsniper.net) - coin listing website.
-* [coinalpha](https://coinalpha.app/) - listing website.
-* [coinhunt](https://coinhunt.cc) - listing website.
-
-
 ## Prices
 
 * [coingecko](https://www.coingecko.com/) - Cryptocurrency Prices, Charts, and Crypto Market Cap.
@@ -102,15 +110,6 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 ## Crypto yield farming
 * [defillama](https://defillama.com) - DefiLlama is a DeFi TVL aggregator.
 * [vfat](https://vfat.tools/) - Tools for crypto yield farming enthusiasts.
-
-
-
-
-
-## Youtube
-
-* Scam reports
-    * [Coffeezilla](https://www.youtube.com/c/Coffeezilla) - Uncover scams, fraudsters and fake gurus that are preying on desperate people with deceptive advertising.
 
 
 
