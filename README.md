@@ -1,10 +1,19 @@
-# Awesome Crypto 
+# Awesome Cryptocurrency 
 
 A curated list of awesome Crypto frameworks, libraries, software and resources.
 Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
 ---
-
+- [Awesome Crypto](#awesome-crypto)
+  * [New Tokens](#new-tokens)
+  * [Safety Checks](#safety-checks)
+  * [Crypto Listing](#crypto-listing)
+  * [Charting](#charting)
+  * [Swaps](#swaps)
+  * [Prices](#prices)
+  * [Services](#services)
+  * [Crypto Yield Farming](#crypto-yield-farming)
+- [Contributing](#contributing)
 
 ## New Tokens
 
@@ -70,7 +79,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
 
 ## Swaps
-* Decentralized exchanges
+*Decentralized exchanges*
 * BSC
     * [pancakeswap](https://pancakeswap.finance/swap) -  Trade, earn, and win crypto on the most popular decentralized platform in the BSC network.
 * ETH
@@ -107,7 +116,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
 
 
-## Crypto yield farming
+## Crypto Yield Farming
 * [defillama](https://defillama.com) - DefiLlama is a DeFi TVL aggregator.
 * [vfat](https://vfat.tools/) - Tools for crypto yield farming enthusiasts.
 
