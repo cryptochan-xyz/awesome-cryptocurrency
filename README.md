@@ -61,7 +61,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
 *Listing websites*
 
-* [coinalpha](https://memetools.app/) - For Meme Coins And Meme Tokens listing website.
+* [memetools](https://memetools.app/) - For Meme Coins And Meme Tokens listing website.
 * [coinsniper](https://coinsniper.net) - Coin listing website.
 * [coinalpha](https://coinalpha.app/) - Listing website.
 * [coinhunt](https://coinhunt.cc) - Listing website.
